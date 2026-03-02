@@ -1,0 +1,12 @@
+{
+	"name": "spotify_AzureSQLDatabase",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "spotify_AzureSqlDatabase",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
